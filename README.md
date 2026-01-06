@@ -35,5 +35,7 @@ It was created to practice core C++ concepts while implementing a real-world aca
 5. Display students sorted by percentage  
 6. Search students by name and roll number  
 
---
+---
 ##Thanks For Reading
+
+--
