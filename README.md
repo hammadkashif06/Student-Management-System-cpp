@@ -36,6 +36,8 @@ It was created to practice core C++ concepts while implementing a real-world aca
 6. Search students by name and roll number  
 
 ---
-##Thanks For Reading
+
+Thanks for reading.  
+— Hammad Kashif
 
 --
